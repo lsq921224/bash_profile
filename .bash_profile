@@ -86,7 +86,6 @@ alias dbr='rake db:rollback'
 alias ss='script/stop; script/start'
 alias sst='script/stop;'
 
-alias nuke_solr=_nuke_solr
 alias rc='rubocop'
 alias rg='rubocop-git'
 
