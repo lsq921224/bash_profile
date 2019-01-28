@@ -1,4 +1,4 @@
-lias be='bundle exec'
+alias be='bundle exec'
 
 _gcm() {
   git commit -m "$1"
